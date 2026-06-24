@@ -111,4 +111,3 @@ vehicle types.
 
 10. Customer vs. Driver Ratings: A scatter plot comparing customer and driver ratings for
 each completed ride, analyzing correlations.
-12. Calculate the total booking value of rides compl
